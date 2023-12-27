@@ -1,7 +1,9 @@
+import React from 'react';
+
 const Signup = () => {
 
   return(
-    <p>hai</p>
+    <p>Signup</p>
   )
 }
 

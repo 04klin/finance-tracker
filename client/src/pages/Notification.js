@@ -1,7 +1,9 @@
+import React from 'react';
+
 const Notification = () => {
 
   return(
-    <p>hai</p>
+    <p>Notification</p>
   )
 }
 

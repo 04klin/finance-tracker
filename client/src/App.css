@@ -1,3 +1,19 @@
-div {
-  background-color: aqua;
+
+.flex {
+  display: flex;
+}
+
+.flex-child {
+  flex:auto
+}
+
+.sidebar {
+  width: 20%;
+  background-color: #B6EFD4;
+  height: 833px;
+  max-height: 100%;
+}
+
+.main-content{
+  width: 80%;
 }

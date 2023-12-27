@@ -1,7 +1,9 @@
+import React from 'react';
+
 const Login = () => {
 
   return(
-    <p>hai</p>
+    <p>Login</p>
   )
 }
 

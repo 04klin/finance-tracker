@@ -1,0 +1,23 @@
+.sidebar-content {
+  margin: 40px;
+  background-color: #9E788F;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.side-title{
+  font-size: 30px;
+}
+
+.side-button-container {
+  margin-top: 50px;
+  list-style-type: none;
+ 
+}
+
+.side-button {
+  margin-top: 30%;
+  margin-bottom: 30%;
+  text-decoration: none;
+  
+}

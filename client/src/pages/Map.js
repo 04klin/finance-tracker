@@ -1,7 +1,9 @@
+import React from 'react';
+
 const Map = () => {
 
   return(
-    <p>hai</p>
+    <p>Map</p>
   )
 }
 

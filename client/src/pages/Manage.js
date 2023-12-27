@@ -1,7 +1,9 @@
+import React from 'react';
+
 const Manage = () => {
 
   return(
-    <p>hai</p>
+    <p>Manage</p>
   )
 }
 

@@ -1,8 +1,14 @@
-import React from 'react'
+import React from "react"
 const Dashboard = () => {
 
   return(
-    <p>hai</p>
+    <>
+      <p>Dashboard/Overview</p>
+      <p>Graph1</p>
+      <p>Graph2</p>
+      <p>Table</p>
+      <p>Goals</p>
+    </>
   )
 }
 
